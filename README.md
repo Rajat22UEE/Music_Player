@@ -1,8 +1,42 @@
-# React + Vite
+# Music Player
+This project is a music player application built using React, Vite.js, and Tailwind CSS.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Features
+Play, pause, shuffle, loop functionality
+Integration with Shazam Core API for music identification
+IP Geolocation API integration for personalized content
+Responsive design with Tailwind CSS
+# Installation
+Clone the repository:
 
-Currently, two official plugins are available:
+bash
+Copy code
+git clone https://github.com/Rajat22UEE/Music_Player.git
+Navigate into the project directory:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+bash
+Copy code
+cd Music_Player
+Install dependencies:
+
+bash
+Copy code
+npm install
+# Usage
+Start the development server:
+
+bash
+Copy code
+npm run dev
+Open your browser and navigate to http://localhost:3000 to view the app.
+
+# APIs Used
+Shazam Core API: Used for music recognition and metadata retrieval.
+IP Geolocation API: Used for personalizing content based on user location.
+Contributing
+Contributions are welcome! Please fork the repository and submit a pull request with your changes.
+
+# License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+Feel free to customize this template further based on specific details of your project or additional features you want to highlight.
