@@ -30,12 +30,6 @@ Copy code
 npm run dev
 Open your browser and navigate to http://localhost:3000 to view the app.
 
-# APIs Used
-Shazam Core API: Used for music recognition and metadata retrieval.
-IP Geolocation API: Used for personalizing content based on user location.
-Contributing
-Contributions are welcome! Please fork the repository and submit a pull request with your changes.
-
 # License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
